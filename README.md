@@ -29,9 +29,11 @@ INICIO
    
 FIN
 
-4)  DIAGRAMA DE FLUJO
+3)  DIAGRAMA DE FLUJO
 5)  
    ![POWER drawio](https://github.com/user-attachments/assets/d91f2f78-385e-42cc-ac1b-a7b6fb2de637)
 
 4) ALGORITMO
     INICIO
+
+   
