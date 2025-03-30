@@ -59,6 +59,8 @@ FIN
 
      ESCRIBIR ´´victoria´´
 
+     pasar a siguiente ciudad 
+
      SINO
 
      ESCRIBIR ´´Game over´´
