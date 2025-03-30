@@ -34,6 +34,39 @@ FIN
    ![POWER drawio](https://github.com/user-attachments/assets/d91f2f78-385e-42cc-ac1b-a7b6fb2de637)
 
 4) ALGORITMO
+   
     INICIO
+   
+     iniciar juego
+   
+     cargar pais inicial
 
+     ESCRIBIR ´´presione tecla para moverse´´
+   
+     LEER tecla
+
+     arriba= saltar
+   
+     abajo= agacharse
+   
+     derecha= correr
+   
+     izquierda= devolverse
+
+     mover jugador
+
+     SI jugador llega a la menta ENTONCES
+
+     ESCRIBIR ´´victoria´´
+
+     SINO
+
+     ESCRIBIR ´´Game over´´
+
+   
+
+   
+     
+        
+      
    
