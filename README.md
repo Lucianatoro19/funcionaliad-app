@@ -65,7 +65,8 @@ FIN
 
      ESCRIBIR ´´Game over´´
 
-   
+     FINSI
+FIN
 
    
      
